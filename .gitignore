@@ -1,0 +1,28 @@
+# Build
+bin/
+obj/
+obj/Debug
+
+# Rider / IntelliJ
+.idea/
+
+# Visual Studio
+.vs/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Testes
+TestResults/
+coverage/
+
+# macOS
+.DS_Store
+
+# Ambiente
+.env
+.env.*
