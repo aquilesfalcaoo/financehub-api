@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceHub.Api", "FinanceHub.Api.csproj", "{D4F61329-D36B-4A06-A2D0-35E3E20842A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F61329-D36B-4A06-A2D0-35E3E20842A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F61329-D36B-4A06-A2D0-35E3E20842A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F61329-D36B-4A06-A2D0-35E3E20842A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F61329-D36B-4A06-A2D0-35E3E20842A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

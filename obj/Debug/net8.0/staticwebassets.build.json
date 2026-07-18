@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sjSskmoy6Qe0ZhXYjHU1TKCYItJVhPJREM3J8YHhLVU=",
+  "Source": "FinanceHub.Api",
+  "BasePath": "_content/FinanceHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
