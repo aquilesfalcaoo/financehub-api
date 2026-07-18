@@ -22,4 +22,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\FinanceHub.Application\FinanceHub.Application.csproj" />
+    <ProjectReference Include="..\..\src\FinanceHub.Domain\FinanceHub.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
